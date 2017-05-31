@@ -1,3 +1,7 @@
+/*
+Legacy file, ignore
+*/
+
 $(document).ready(function(){
 console.log('hrrgh')
 $.getJSON( "/tubeJSON.json", function( data ) {
